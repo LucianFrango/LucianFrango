@@ -1,5 +1,17 @@
-# Hi, i'm Lucian. Thanks for stopping by 👋
-## Here's what you need to know about me
+```
+  _                _               ______                     _     _       
+ | |              (_)             |  ____|                   | |   (_)      
+ | |    _   _  ___ _  __ _ _ __   | |__ _ __ __ _ _ __   __ _| |__  _ _   _ 
+ | |   | | | |/ __| |/ _` | '_ \  |  __| '__/ _` | '_ \ / _` | '_ \| | | | |
+ | |___| |_| | (__| | (_| | | | | | |  | | | (_| | | | | (_| | | | | | |_| |
+ |______\__,_|\___|_|\__,_|_| |_| |_|  |_|  \__,_|_| |_|\__, |_| |_|_|\__,_|
+                                                         __/ |              
+                                                        |___/               
+                                                        
+```
+# Hi, thanks for stopping by 👋
+
+### Here's what you need to know about me
 
 I'm a Lead Microsoft Azure focussed Cloud Solution Architect by day with many of years of professional services consulting experience under my belt (don't remind me that I'm getting old). I work for Telstra Purple as part of the Workplace and Digital Apps group helping enterprise customers.
 
